@@ -5,7 +5,7 @@
 
     <groupId>com.cwowhappy</groupId>
     <artifactId>mybatis-common-mapper</artifactId>
-    <version>3.4.0</version>
+    <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>mybatis-common-mapper</name>
